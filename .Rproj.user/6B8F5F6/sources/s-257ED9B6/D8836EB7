@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586263665511.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D8836EB7",
+    "lastKnownWriteTime" : 7599662079110377506,
+    "last_content_update" : 1586263665511,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "35DBC7A7",
+        "caption" : "cancer_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cancer_data&cache_key=35DBC7A7",
+        "displayedObservations" : "569",
+        "environment" : "",
+        "expression" : "cancer_data",
+        "object" : "cancer_data",
+        "preview" : "0",
+        "totalObservations" : "569",
+        "variables" : "33"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

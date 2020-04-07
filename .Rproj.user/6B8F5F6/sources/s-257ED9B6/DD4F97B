@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586263335999.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD4F97B",
+    "lastKnownWriteTime" : 1586268258,
+    "last_content_update" : 1586268258411,
+    "path" : "D:/codebase/breast cancer prediction/knn_ranger_algorithm.R",
+    "project_path" : "knn_ranger_algorithm.R",
+    "properties" : {
+        "cursorPosition" : "91,50",
+        "scrollLine" : "79",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

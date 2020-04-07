@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586266477929.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4BC04CAD",
+    "lastKnownWriteTime" : 1586268275,
+    "last_content_update" : 1586268275551,
+    "path" : "D:/codebase/breast cancer prediction/testing.R",
+    "project_path" : "testing.R",
+    "properties" : {
+        "cursorPosition" : "10,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
